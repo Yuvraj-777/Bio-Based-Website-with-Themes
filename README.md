@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bio-Website&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+</p>
+
 # Professional Software Developer Portfolio
 This meticulously crafted portfolio website caters to software developers, presenting seamless links to their Gmail, Discord, GitHub, and LinkedIn profiles. The platform offers a distinctive and efficient way for developers to showcase their contact information with sophistication.
 
