@@ -13,7 +13,7 @@ Currently, the code for this exceptional website is not publicly available. Howe
 
 # Get involved:
 * GitHub: https://github.com/Yuvraj-777/
-* Discord: https://discord.com/invite/D6SFg5XHYu/
+* Discord: https://discord.com/invite/hr8pW7J2qk/
 * Web: https://yuvraj-777.great-site.net
 
 # How To Get Source Code ?
